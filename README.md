@@ -8,4 +8,4 @@ This tutorial is meant to be the guide to learning about scalable vector graphic
 ### **Targeted Audience:**
 I created this tutorial keeping high school and college students like myself in mind, who didnt know what scalable vector graphics are, or how they are used. Though any beginner can use this tutorial to kick off their projects using scalable vector graphics.
 
-[Next](
+[Next -->](background.md)
