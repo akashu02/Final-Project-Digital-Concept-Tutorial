@@ -1,6 +1,6 @@
 # Step 2: Install the SVG extension
 
-Before we begin writing the code, its extremely helpful to install this extension to make scripting easier. It also allows you to preview the SVG as you create it! (See the correct extension below.)
+Before we begin writing the code, its extremely helpful to install this extension to make scripting easier. It highlights parts of the code in different colors making it easy to see hat y ou are writing. It also allows you to preview the SVG as you create it! (See the correct extension below.)
 
 ![image](https://user-images.githubusercontent.com/112105372/206324229-d44ff5ea-7572-458e-8266-f3997d0445f5.png)
 
